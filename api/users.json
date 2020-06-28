@@ -15,5 +15,13 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "users": [
+    {
+      "id": 1,
+      "username": "bob",
+      "password": "bobsPassword",
+      "email": "bob@bob.com"
+    }
+  ]
 }
